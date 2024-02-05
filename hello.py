@@ -1,1 +1,1 @@
-print("Hello world!")
+print("SPARKHACKS 2024 WOHOOOO")
